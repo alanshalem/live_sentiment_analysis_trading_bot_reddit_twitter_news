@@ -1,0 +1,6 @@
+REDDIT_ID = "asdf1234"
+REDDIT_SECRET="asdf1234"
+REDDIT_USER="reddituser"
+REDDIT_PASS="redditpassword"
+BINANCE_KEY="binancekey"
+BINANCE_SECRET="binancesecret"
